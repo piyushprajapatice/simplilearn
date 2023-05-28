@@ -1,5 +1,9 @@
 
 
 print("hello world")
+<<<<<<< HEAD
 print("welcome to devops learning")
 print("this is change by developer")
+=======
+print("this is change in branch")
+>>>>>>> dev
